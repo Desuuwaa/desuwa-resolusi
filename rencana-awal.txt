@@ -1,0 +1,5 @@
+RENCANA AWAL DESUWA
+- Langkah awal akan belajar memahami mengenai bahasa pemrograman javascript beserta kacungnya yang lain.
+  * ES6
+- Belajar juga mengenai apa itu web server dan database, serta apa saja yang dipersiapkan untuk dapat terjun kedalamnya.
+- Tidak lupa untuk belajar pengiringnya yakni framework Vue,Tailwind,Laravel.
